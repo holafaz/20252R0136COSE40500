@@ -11,3 +11,5 @@ This repository contains basic computer science programs implemented in Python.
 - bubble_sort.py – Bubble sort algorithm
 - stack.py – Stack implementation
 - queue.py – Queue implementation
+- palindrome_check.py - palindrome check implementation
+- sorting_algorithm.py - sorting implementation
